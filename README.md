@@ -7,11 +7,12 @@ Welcome to my personal **Graphic Design Portfolio**, a curated collection of cre
 You can view all of my graphic design works directly on Figma:
 
 🔗 [Graphic Design Works – Figma Link](https://www.figma.com/design/IJOUAXzKVmkn50bM2xPNLP/Untitled?node-id=0-1&t=UVxaLRGgLA0SvT2P-1)
-
+🔗 [NEWS LETTER and many works – Figma Link](https://www.figma.com/design/ZDn6TC6m7qOopB8kaBOasi/Untitled?node-id=0-1&t=lstJdPMt8B6fPQh6-1)
 ---
 
 ## 🖼️ What's Included
 
+- ✅ **SR UNIVERSITY NEWS LETTER** – Designed department of CS & AI newsletter 2024-2025
 - ✅ **Event Posters** – Custom layouts for college and club events  
 - ✅ **ID Cards** – Clean and structured ID card designs  
 - ✅ **Tags** – Badges and name tags for conferences and fests  
