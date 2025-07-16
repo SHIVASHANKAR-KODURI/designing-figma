@@ -48,7 +48,7 @@ I’m **Shiva Shankar Koduri**, a Computer Science (AIML) student and the **Vice
 
 If you'd like to collaborate, hire, or connect:
 
-- 📧 Email: your.email@example.com  
+- 📧 Email: shankarkoduri21@gmail.com
 - 🖼️ Portfolio: Coming Soon!
 
 ---
